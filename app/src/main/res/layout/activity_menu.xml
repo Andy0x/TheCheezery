@@ -24,8 +24,7 @@
         android:textAllCaps="true"
         android:layout_gravity="center_horizontal"
         android:textSize="20sp"
-        android:layout_marginTop="10dp"
-        />
+        android:layout_marginTop="10dp"/>
 
     <GridLayout
         android:layout_width="match_parent"
@@ -111,5 +110,5 @@
             android:textSize="@dimen/menu_buttons_text"
             android:paddingVertical="@dimen/menu_buttons_padding_v"
             />
-        </GridLayout>
+    </GridLayout>
 </LinearLayout>
